@@ -1,0 +1,16 @@
+# Instagram
+(\.|^)instagram\.com$
+.*\.cdninstagram\.com$
+
+# Mercado Livre  
+(\.|^)mercadolivre\.com\.br$
+.*\.mercadopago\.com\.br$
+
+# TikTok
+(\.|^)tiktok\.com$
+.*\.tiktokcdn\.com$
+
+# YouTube
+(\.|^)youtube\.com$
+(\.|^)googlevideo\.com$
+(\.|^)youtu\.be$

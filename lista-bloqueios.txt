@@ -10,11 +10,6 @@
 (\.|^)tiktok\.com$
 .*\.tiktokcdn\.com$
 
-# YouTube
-(\.|^)youtube\.com$
-(\.|^)googlevideo\.com$
-(\.|^)youtu\.be$
-
 # Categoria: Entretenimento e Jogos
 .*jogos\.com.*
 .*gibionline.*

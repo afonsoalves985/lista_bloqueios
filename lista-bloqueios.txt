@@ -1,33 +1,46 @@
-(^|\.)instagram\.com$
-(^|\.)cdninstagram\.com$
-(^|\.)mercadolivre\.com\.br$
-(^|\.)mercadopago\.com\.br$
-(^|\.)tiktok\.com$
-(^|\.)tiktokcdn\.com$
-(^|\.)jogos\.com$
-(^|\.)gibionline\.com$
-(^|\.)vagalume\.com\.br$
-(^|\.)reddit\.com$
-(^|\.)twitch\.tv$
-(^|\.)ttvnw\.net$
-(^|\.)primevideo\.com$
-(^|\.)spotify\.com$
-(^|\.)games\.com$
-(^|\.)kick\.com$
-(^|\.)gamivo\.com$
-(^|\.)hbomax\.com$
-(^|\.)hbomaxcdn\.com$
-(^|\.)hbo\.com$
-(^|\.)radio\.com$
-(^|\.)radios\.com$
-(^|\.)tunein\.com$
-(^|\.)radio\.br$
-(^|\.)webradio\.com$
-(^|\.)streaming\.radio$
-(^|\.)bet$
-(^|\.)bet\.br$
-(^|\.)bet\.com$
-(^|\.)psiphon\.com$
-(^|\.)anime$
-(^|\.)porno$
-(^|\.)nephobox\.com$
+# Instagram
+(\.|^)instagram\.com$
+.*\.cdninstagram\.com$
+
+# Mercado Livre  
+(\.|^)mercadolivre\.com\.br$
+.*\.mercadopago\.com\.br$
+
+# TikTok
+(\.|^)tiktok\.com$
+.*\.tiktokcdn\.com$
+
+# Categoria: Entretenimento e Jogos
+.*jogos\.com.*
+.*gibionline.*
+.*vagalume.*
+(\.|^)reddit\.com$
+.*twitch\.tv.*
+(\.|^)ttvnw\.net$
+.*primevideo\.com.*
+(\.|^)spotify\.com$
+.*games.*
+(\.|^)kick\.com$
+(\.|^)gamivo\.com$
+.*hbomax\.com.*
+.*hbomaxcdn.*
+.*hbo\.com.*
+
+# Categoria: Rádio e Streaming
+.*radio.*\.com.*
+.*radios.*\.com.*
+(\.|^)tunein\.com$
+.*\.radio\.br$
+.*webradio.*
+.*streaming.*radio.*
+
+# Categoria: Apostas
+.*\.bet$
+.*\.bet\.br$
+.*\.bet\.com$
+
+# Outros
+.*psiphon.*
+.*anime.*
+.*porno.*
+.*\.nephobox.*
